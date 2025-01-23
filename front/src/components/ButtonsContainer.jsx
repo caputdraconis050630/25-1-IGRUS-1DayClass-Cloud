@@ -1,7 +1,7 @@
 import React from "react";
 import Button from "./Button";
 
-function ButtonsContainer({ handleClick, operatorClick, handleEqual }) {
+function ButtonsContainer({ handleClick, operatorClick, handleEqual, isUrlEmpty }) {
   return (
     <div className="btn-wrapper">
       <div className="btn-container">
@@ -40,10 +40,12 @@ function ButtonsContainer({ handleClick, operatorClick, handleEqual }) {
       <div className="btn-container">
         <Button handleClick={handleClick} name={0} value={0} />
         <Button
+          disabled={isUrlEmpty}
           className="span-two colored-btn"
           handleClick={handleEqual}
           name={"="}
           value={"="}
+          
         />
         <Button
           handleClick={() => operatorClick("/")}
