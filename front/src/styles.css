@@ -92,12 +92,12 @@
   }
   
   .colored-btn {
-    background-color: aqua;
+    background-color: #5ae6e7;
     color: black;
   }
   
   .colored-btn:active {
-    background-color: chocolate;
+    background-color: #048c7c;
     color: white;
   }
   
