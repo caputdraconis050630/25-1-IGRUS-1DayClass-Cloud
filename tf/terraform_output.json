@@ -1,0 +1,562 @@
+{
+  "user_credentials": {
+    "sensitive": false,
+    "type": [
+      "tuple",
+      [
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ],
+        [
+          "object",
+          {
+            "password": "string",
+            "username": "string"
+          }
+        ]
+      ]
+    ],
+    "value": [
+      {
+        "password": "NL+4v7iPu#8$",
+        "username": "igrus-01"
+      },
+      {
+        "password": "9!(}n]F9Hh!j",
+        "username": "igrus-02"
+      },
+      {
+        "password": "_%J99JazHSLz",
+        "username": "igrus-03"
+      },
+      {
+        "password": "lg[86[*Y|pFB",
+        "username": "igrus-04"
+      },
+      {
+        "password": "56Bu8M^SQJWt",
+        "username": "igrus-05"
+      },
+      {
+        "password": "r=X9*6|Flj%%",
+        "username": "igrus-06"
+      },
+      {
+        "password": "xm|Bal[2quO6",
+        "username": "igrus-07"
+      },
+      {
+        "password": "Ij+!7+K9{SwA",
+        "username": "igrus-08"
+      },
+      {
+        "password": "2ZDpc=I(Mk[]",
+        "username": "igrus-09"
+      },
+      {
+        "password": "IW=T3[}q[E^U",
+        "username": "igrus-10"
+      },
+      {
+        "password": "[(1*ZGHwau|]",
+        "username": "igrus-11"
+      },
+      {
+        "password": "WYHa7+}Cm58B",
+        "username": "igrus-12"
+      },
+      {
+        "password": "4P'+O|Ewv5|z",
+        "username": "igrus-13"
+      },
+      {
+        "password": "Bc8YPJB_xk9s",
+        "username": "igrus-14"
+      },
+      {
+        "password": "b-39w07Lb*D8",
+        "username": "igrus-15"
+      },
+      {
+        "password": "KH|45!tiA0)G",
+        "username": "igrus-16"
+      },
+      {
+        "password": "kNevr)i)1W^%",
+        "username": "igrus-17"
+      },
+      {
+        "password": "VLM6n-^Se400",
+        "username": "igrus-18"
+      },
+      {
+        "password": "*QIDpL6JI%y%",
+        "username": "igrus-19"
+      },
+      {
+        "password": "wz6js1xX+'lI",
+        "username": "igrus-20"
+      },
+      {
+        "password": "f\u0026mG[#uQ%w8F",
+        "username": "igrus-21"
+      },
+      {
+        "password": "gbKrK+*|Ra6\u0026",
+        "username": "igrus-22"
+      },
+      {
+        "password": "YH$]ztynel3^",
+        "username": "igrus-23"
+      },
+      {
+        "password": "GD3KY-!z1pb1",
+        "username": "igrus-24"
+      },
+      {
+        "password": "mo*_(YtrF9gk",
+        "username": "igrus-25"
+      },
+      {
+        "password": "^tWc3cTfEOZN",
+        "username": "igrus-26"
+      },
+      {
+        "password": "gVfKjfN(^d8f",
+        "username": "igrus-27"
+      },
+      {
+        "password": "]f4FDK|W2Zhr",
+        "username": "igrus-28"
+      },
+      {
+        "password": "Vkg9fvJ+w#Qv",
+        "username": "igrus-29"
+      },
+      {
+        "password": "^gb[L^5tB3x[",
+        "username": "igrus-30"
+      },
+      {
+        "password": "B7@l=uhx$Jww",
+        "username": "igrus-31"
+      },
+      {
+        "password": "OPgK5VkLW2D+",
+        "username": "igrus-32"
+      },
+      {
+        "password": "-0ALpPwY+d{U",
+        "username": "igrus-33"
+      },
+      {
+        "password": "(A%ER83)$^px",
+        "username": "igrus-34"
+      },
+      {
+        "password": ")@o_nQ]q'zK7",
+        "username": "igrus-35"
+      },
+      {
+        "password": "h4Dv@v)Dnxsm",
+        "username": "igrus-36"
+      },
+      {
+        "password": "y}8VRsxAX+p8",
+        "username": "igrus-37"
+      },
+      {
+        "password": "o6}@58dwnPZj",
+        "username": "igrus-38"
+      },
+      {
+        "password": "Rz%ME1]U]T|=",
+        "username": "igrus-39"
+      },
+      {
+        "password": "U_iYU14'^EV-",
+        "username": "igrus-40"
+      },
+      {
+        "password": "0IDrB#I6FAeu",
+        "username": "igrus-41"
+      },
+      {
+        "password": "89sgJIW^|XVf",
+        "username": "igrus-42"
+      },
+      {
+        "password": "8fzwIT)IhD(A",
+        "username": "igrus-43"
+      },
+      {
+        "password": "dQ_3kaa)@IvR",
+        "username": "igrus-44"
+      },
+      {
+        "password": "jwe^W2G^jz3r",
+        "username": "igrus-45"
+      },
+      {
+        "password": "p2Ca$4ClIetG",
+        "username": "igrus-46"
+      },
+      {
+        "password": "J5R8$$GAitDQ",
+        "username": "igrus-47"
+      },
+      {
+        "password": "*Oj3S+FCg!p+",
+        "username": "igrus-48"
+      },
+      {
+        "password": "aSdaj|PNLx*7",
+        "username": "igrus-49"
+      },
+      {
+        "password": "eT)3-bIvS{N}",
+        "username": "igrus-50"
+      }
+    ]
+  }
+}
